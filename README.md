@@ -6,9 +6,6 @@
   SQL no Node.js com Sequelize
 </h3>
 
-<p align="center">Nesse vídeo abordo as comparações de SQL vs NoSQL, níveis de abstração de base de dados, migrations, configuração do Sequelize, relacionamentos 1:N, relacionamentos N:N, queries complexas e muito mais!</p>
-
-
 ## 👨🏼‍💻 Instrutor
 
 - [Diego Fernandes](https://github.com/diego3g)
