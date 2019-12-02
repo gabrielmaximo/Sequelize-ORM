@@ -6,10 +6,6 @@
   SQL no Node.js com Sequelize
 </h3>
 
-## 👨🏼‍💻 Instrutor
-
-- [Diego Fernandes](https://github.com/diego3g)
-
 ## 🚀 Tecnologias
 
 - ⚡ Express — A web framework for Node.js
